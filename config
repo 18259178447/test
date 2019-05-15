@@ -1,0 +1,12 @@
+#AddKeysToAgent no
+#IdentityFile ~/.ssh/id_rsa
+#IdentityFile ~/.ssh/id_rsa_18259178447
+
+
+Host          laiyangde1
+HostName       github.com
+IdentityFile   ~/.ssh/id_rsa
+
+Host           laiyangde2
+HostName       github.com
+IdentityFile   ~/.ssh/id_rsa_18259178447

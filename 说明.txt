@@ -1,0 +1,2 @@
+#pushµΩgithub…œ»•
+$ git remote add origin git@github.com:laiyangde/mywall.git
